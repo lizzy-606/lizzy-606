@@ -40,3 +40,22 @@ This work includes:
 - MA in Ethnology and Cultural Anthropology
 - Author of publications on AAC, communication, and language development
 - Independent researcher working on Polish morphology, tokenization, and LLM evaluation
+
+## Preprints: Polish Tokenization Series
+
+A series of preprints on Polish morphology, BPE tokenization, inflectional paradigms, and diagnostic evaluation of language models.
+
+- **Beyond Task Performance: Morphological Branching as a Diagnostic Metric for Polish Inflectional Language Models**  
+  DOI: https://doi.org/10.31235/osf.io/a4wd9_v1
+
+- **The Limits of BPE Tokenization in Polish: Segmentation, Flexional Forms, Grammatical Anchoring, and First-Person Stability in Inflectional Language Models**  
+  DOI: https://doi.org/10.31235/osf.io/7exa6_v1
+
+- **Inflectional Paradigms as a Diagnostic Tool for Tokenizers in Morphologically Rich Languages**  
+  DOI: https://doi.org/10.31235/osf.io/tqvuf_v1
+
+- **Toward Morphologically-Aware Tokenization for Inflectional Languages: A Structural Hypothesis**  
+  DOI: https://doi.org/10.31235/osf.io/6sj8d_v1
+
+- **Working note — Why Not Syllables?**  
+  Syllabic segmentation looks tidy but preserves phonology, not morphology. A short argument for why the boundary matters.
