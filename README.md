@@ -45,17 +45,17 @@ This work includes:
 
 A series of preprints on Polish morphology, BPE tokenization, inflectional paradigms, and diagnostic evaluation of language models.
 
-- **Beyond Task Performance: Morphological Branching as a Diagnostic Metric for Polish Inflectional Language Models**  
-  DOI: https://doi.org/10.31235/osf.io/a4wd9_v1
-
 - **The Limits of BPE Tokenization in Polish: Segmentation, Flexional Forms, Grammatical Anchoring, and First-Person Stability in Inflectional Language Models**  
-  DOI: https://doi.org/10.31235/osf.io/7exa6_v1
+  DOI: https://doi.org/10.31235/osf.io/7exa6_v3
 
 - **Inflectional Paradigms as a Diagnostic Tool for Tokenizers in Morphologically Rich Languages**  
-  DOI: https://doi.org/10.31235/osf.io/tqvuf_v1
+  DOI: https://doi.org/10.31235/osf.io/tqvuf_v3
 
 - **Toward Morphologically-Aware Tokenization for Inflectional Languages: A Structural Hypothesis**  
-  DOI: https://doi.org/10.31235/osf.io/6sj8d_v1
+  DOI: https://doi.org/10.31235/osf.io/6sj8d_v4
+
+- **Beyond Task Performance: Morphological Branching as a Diagnostic Metric for Polish Inflectional Language Models**  
+  DOI: https://doi.org/10.31235/osf.io/a4wd9_v1
 
 - **Working note — Why Not Syllables?**  
   Syllabic segmentation looks tidy but preserves phonology, not morphology. A short argument for why the boundary matters.
