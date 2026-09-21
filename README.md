@@ -46,7 +46,7 @@ This work includes:
 A series of preprints on Polish morphology, BPE tokenization, inflectional paradigms, and diagnostic evaluation of language models.
 
 - **The Limits of BPE Tokenization in Polish: Segmentation, Flexional Forms, Grammatical Anchoring, and First-Person Stability in Inflectional Language Models**  
-  DOI: https://doi.org/10.31235/osf.io/7exa6_v3
+  DOI: https://doi.org/10.31235/osf.io/7exa6_v3  ArXiv mirroring: https://arxiv.org/abs/2609.17553
 
 - **Inflectional Paradigms as a Diagnostic Tool for Tokenizers in Morphologically Rich Languages**  
   DOI: https://doi.org/10.31235/osf.io/tqvuf_v3
