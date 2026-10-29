@@ -22,6 +22,8 @@ A separate part of my work concerns the design and development of language syste
 
 I also work as an **AAC Subject Matter Expert at AbilityMic**, contributing domain expertise to the design and development of AAC language systems and communication solutions.
 
+My contributions to the Mulberry symbol library include Polish translations and a linguistic taxonomy supporting AAC language-system design.
+
 I approach AAC language-system design primarily from the perspective of generative language development, integrating technical implementation with linguistic and communicative principles. This includes vocabulary organization, grammatical structure, sentence-building possibilities, access to core and fringe vocabulary, communicative functions, and the development of flexible, self-generated communication.
 
 My focus is on designing AAC tools that support the development of a user’s own language system, including access to individual symbols, generative vocabulary, flexible utterance construction, and communication across contexts.
